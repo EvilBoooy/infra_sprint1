@@ -1,0 +1,5 @@
+IP: 51.250.27.88;
+name_taski: https://taski.servebeer.com/;
+name_kittygram: https://infra.servebeer.com/;
+login: yc-user;
+password: 555666qq;
