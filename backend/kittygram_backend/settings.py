@@ -1,4 +1,6 @@
-import os, dotenv
+import os
+import dotenv
+
 from pathlib import Path
 
 dotenv.load_dotenv()
